@@ -1,0 +1,15 @@
+COVID-19 DATA ANALYSIS - INSIGHTS
+
+1. The United States recorded the highest peak daily COVID-19 cases among the selected countries.
+
+2. India's case count showed sharp increases during major pandemic waves, indicating rapid transmission periods.
+
+3. Brazil experienced prolonged periods of high case counts compared to other countries.
+
+4. The 7-day rolling average effectively reduced daily fluctuations and provided a clearer view of overall trends.
+
+5. Country comparison plots revealed significant differences in outbreak timing and peak intensity.
+
+6. Peak detection helped identify the most critical periods of the pandemic for each country.
+
+7. Time-series analysis provided better understanding of disease spread patterns across different regions.
